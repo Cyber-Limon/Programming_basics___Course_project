@@ -1,1 +1,1 @@
-# Programming_basics___Course_work
+# Основы программирования | Курсовая работа
